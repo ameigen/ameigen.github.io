@@ -46,6 +46,11 @@ a:link
   text-decoration: none;
 }
 
+a:visited
+{
+  color: #2E2E3A;
+}
+
 a:hover
 {
   color: #e3e9e5
